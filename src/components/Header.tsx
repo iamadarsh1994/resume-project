@@ -9,7 +9,7 @@ const Header: React.FC = (): JSX.Element => {
       <div className='text-3xl font-bold'>Adarsh Mishra</div>
       <div className=''><img src={email} alt="email icon" className='w-3' />iamadarsh1994@gmail.com</div>
       <div><img src={phone} alt="phone icon" className='w-3' />9598221994</div>
-      <div><img src={pin} alt="location icon" className='w-3'/>4/144, Lalita Park, Laxmi Nagar, Delhi, 110092</div>
+      //<div><img src={pin} alt="location icon" className='w-3'/>4/144, Lalita Park, Laxmi Nagar, Delhi, 110092</div>
       <div><img src={git} alt="git icon" className='w-3'/>
         <a href="https://github.com/iamadarsh1994" target="_blank" rel="noopener noreferrer">
           Github
